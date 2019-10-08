@@ -1,3 +1,5 @@
-body {
-    color: rgb(83, 81, 81)
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #bfc7e0;
 }
